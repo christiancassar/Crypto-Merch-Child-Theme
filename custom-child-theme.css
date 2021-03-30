@@ -28,3 +28,9 @@ a:hover{
 .post{
 	border-radius: 20px !important;
 }
+
+/* Change the footer widget titles to bold */
+
+.widget-title{
+	font-weight: bold !important;
+}
