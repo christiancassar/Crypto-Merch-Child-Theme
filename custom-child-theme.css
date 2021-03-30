@@ -52,3 +52,10 @@ a:hover{
 .header-info img{
 	height: 50px !important;
 }
+
+/* Added background colour and padding to the shop products section */
+
+.products{
+	background-color: white !important;
+	padding: 30px !important;
+}
