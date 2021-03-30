@@ -1,0 +1,5 @@
+/* Change the background colour of the 'Why choose us?' features from transparent to white */
+
+.feature-box{
+	background-color: white !important;
+}
