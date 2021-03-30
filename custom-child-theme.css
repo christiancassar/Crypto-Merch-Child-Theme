@@ -13,7 +13,6 @@ a:hover{
 /* Change the default min-height and height of the post previews */
 
 .post{
-	height: 300px !important;
 	min-height: 300px !important;
 }
 
@@ -39,4 +38,10 @@ a:hover{
 
 .bg-custom{
 	background-color: black !important;
+}
+
+/* Change the background colour of the 'Find Events' button in the Events page to match the colour scheme */
+
+.tribe-common-c-btn{
+	background-color: #4F6DF5 !important;
 }
