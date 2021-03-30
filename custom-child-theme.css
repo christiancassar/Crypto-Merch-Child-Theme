@@ -34,3 +34,9 @@ a:hover{
 .widget-title{
 	font-weight: bold !important;
 }
+
+/* Change the background colour of the page headers */
+
+.bg-custom{
+	background-color: black !important;
+}
