@@ -3,3 +3,9 @@
 .feature-box{
 	background-color: white !important;
 }
+
+/* Add an underline effect when a link is hovered */
+
+a:hover{
+	text-decoration: underline !important;
+}
