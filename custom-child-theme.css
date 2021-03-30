@@ -9,3 +9,10 @@
 a:hover{
 	text-decoration: underline !important;
 }
+
+/* Change the default min-height and height of the post previews */
+
+.post{
+	height: 300px !important;
+	min-height: 300px !important;
+}
