@@ -22,3 +22,9 @@ a:hover{
 .section-title{
 	text-transform: uppercase !important;
 }
+
+/* Change the border radius of the post previews */
+
+.post{
+	border-radius: 20px !important;
+}
