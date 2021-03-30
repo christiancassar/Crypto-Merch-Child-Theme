@@ -45,3 +45,10 @@ a:hover{
 .tribe-common-c-btn{
 	background-color: #4F6DF5 !important;
 }
+
+
+/* Change the height of the header's image */
+
+.header-info img{
+	height: 50px !important;
+}
